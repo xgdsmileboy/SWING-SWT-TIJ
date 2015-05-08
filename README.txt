@@ -1,0 +1,1 @@
+This is a migration project which migrate the Swing API based Java GUI program to the SWT API. In this project, there are thirteen demos come from chapter 13-19 of book <Thinking In Java> Edition4.
